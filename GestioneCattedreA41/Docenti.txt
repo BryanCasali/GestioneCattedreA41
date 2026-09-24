@@ -1,0 +1,14 @@
+Biondi;18
+Fusaroli;18
+Greco;12
+Lucchi;18
+Melagranati;18
+Molara;15
+Sintuzzi;18
+Tappi;18
+Vaccari;18
+Veneti;18
+Venturi;18
+Facciponte;18
+Supplente1;18
+Supplente2;9
